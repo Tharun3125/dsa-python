@@ -1,7 +1,6 @@
 # dsa-python
 My daily DSA problem solving journey. Focused on understanding patterns, not memorizing solutions.
 
-
 # DSA Learning Journey
 
 This repository documents my daily Data Structures and Algorithms practice.
